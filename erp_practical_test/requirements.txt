@@ -1,0 +1,3 @@
+# Core Sections 1–2, 4: Python standard library only.
+# Section 3: optional — install when you connect to PostgreSQL (no Docker required).
+psycopg2-binary>=2.9.9
